@@ -2,6 +2,8 @@
 
 This is a workflow for [Alfred](http://alfredapp.com) that restarts your wifi connection in case it got stuck (eg. due to a VPN Issue.)
 
+![alt text](https://github.com/jancschaefer/Alfred-WifiRestart/blob/master/icon.png?raw=true "WiFi-Restart")
+
 ## Usage
 Simply Install the ```.alfredworkflow``` file and use the keyword ```wifirestart```
 
