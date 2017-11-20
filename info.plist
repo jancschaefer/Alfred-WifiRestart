@@ -25,7 +25,7 @@
 	<key>createdby</key>
 	<string>Jan Schäfer (jan@schae.fr)</string>
 	<key>description</key>
-	<string>Restarts your macs wireless connection if it gets stuck.</string>
+	<string>Alfred workflow that restarts your mac's wifi if it got stuck.</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
